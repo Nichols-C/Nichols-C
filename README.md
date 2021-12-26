@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nichols-C
 - 👀 I’m interested broadly in machine learning, but my research focuses on modeling environmental systems.
-- 🌱 I’m currently learning about machine learning. More specifically, about the implementation of supervised regression models for prediction of environmental changes.
+- 🌱 I’m currently learning about the implementation of supervised regression models for prediction of environmental changes.
 - 💞️ I’m looking to collaborate on the modeling of water use using ML. 
 - 📫 I can best be reached via email at Nichols.C@outlook.com. 
 
